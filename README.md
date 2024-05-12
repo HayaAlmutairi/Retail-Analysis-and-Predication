@@ -1,4 +1,4 @@
-# Walmart-Capstone
+# Walmart Stores
 # Retail Analysis with Walmart Data
 
 1. [Project Motivation](#ProjectMotivation)
